@@ -1,7 +1,7 @@
 # Invisibility_cloak
 
 Being a harry potter fan I always had a childhood fantasy of using an invisibility cloak. Well it turns out that 
-using simple computer vision techniques I can now actually fulfil my childhood fantasy. 
+using simple computer vision techniques I can now actually fulfill my childhood fantasy. 
 This code turns a `red` colour cloth into an invisibility cloak.
 
 #### Setup/Requirements
